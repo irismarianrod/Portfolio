@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 586" width="960" height="586">
+  <rect width="960" height="586" fill="#ffffff"/>
+  <text x="24" y="34" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#002b5c">Zona creativa 03 · Habilidades</text>
+  <text x="936" y="34" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="end">Wireframe orientativo · el diseño final es libre</text>
+  <line x1="24" y1="48" x2="936" y2="48" stroke="#d0d5df"/>
+  <text x="60" y="90" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#6b7385" text-anchor="start">03 · HABILIDADES</text>
+  <rect x="60" y="100" width="420" height="34" rx="6" fill="none" stroke="#9aa3b5" stroke-width="1.5"/>
+  <text x="270.0" y="122.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#6b7385" text-anchor="middle">Título de la sección (h2)</text>
+  <rect x="60" y="160" width="560" height="142" rx="10" fill="none" stroke="#9aa3b5" stroke-width="1.5"/>
+  <text x="80" y="186" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="bold" fill="#6b7385">Área 1 (p. ej. Front-end)</text>
+  <text x="80" y="210" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">Tecnología</text>
+  <rect x="200" y="200" width="320" height="12" rx="6" fill="none" stroke="#9aa3b5"/><rect x="200" y="200" width="220" height="12" rx="6" fill="#c9cfdb"/>
+  <text x="600" y="210" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#6b7385" text-anchor="end">nivel</text>
+  <text x="80" y="244" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">Tecnología</text>
+  <rect x="200" y="234" width="320" height="12" rx="6" fill="none" stroke="#9aa3b5"/><rect x="200" y="234" width="170" height="12" rx="6" fill="#c9cfdb"/>
+  <text x="600" y="244" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#6b7385" text-anchor="end">nivel</text>
+  <text x="80" y="278" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">Tecnología</text>
+  <rect x="200" y="268" width="320" height="12" rx="6" fill="none" stroke="#9aa3b5"/><rect x="200" y="268" width="120" height="12" rx="6" fill="#c9cfdb"/>
+  <text x="600" y="278" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#6b7385" text-anchor="end">nivel</text>
+  <rect x="60" y="318" width="560" height="108" rx="10" fill="none" stroke="#9aa3b5" stroke-width="1.5"/>
+  <text x="80" y="344" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="bold" fill="#6b7385">Área 2 (p. ej. Back-end y datos)</text>
+  <text x="80" y="368" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">Tecnología</text>
+  <rect x="200" y="358" width="320" height="12" rx="6" fill="none" stroke="#9aa3b5"/><rect x="200" y="358" width="220" height="12" rx="6" fill="#c9cfdb"/>
+  <text x="600" y="368" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#6b7385" text-anchor="end">nivel</text>
+  <text x="80" y="402" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">Tecnología</text>
+  <rect x="200" y="392" width="320" height="12" rx="6" fill="none" stroke="#9aa3b5"/><rect x="200" y="392" width="170" height="12" rx="6" fill="#c9cfdb"/>
+  <text x="600" y="402" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#6b7385" text-anchor="end">nivel</text>
+  <rect x="60" y="442" width="560" height="108" rx="10" fill="none" stroke="#9aa3b5" stroke-width="1.5"/>
+  <text x="80" y="468" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="bold" fill="#6b7385">Área 3 (p. ej. Herramientas)</text>
+  <text x="80" y="492" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">Tecnología</text>
+  <rect x="200" y="482" width="320" height="12" rx="6" fill="none" stroke="#9aa3b5"/><rect x="200" y="482" width="220" height="12" rx="6" fill="#c9cfdb"/>
+  <text x="600" y="492" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#6b7385" text-anchor="end">nivel</text>
+  <text x="80" y="526" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">Tecnología</text>
+  <rect x="200" y="516" width="320" height="12" rx="6" fill="none" stroke="#9aa3b5"/><rect x="200" y="516" width="170" height="12" rx="6" fill="#c9cfdb"/>
+  <text x="600" y="526" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#6b7385" text-anchor="end">nivel</text>
+  <text x="650" y="185" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">← cada área en su bloque</text>
+  <text x="650" y="215" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">← indicador de nivel: barra, puntos,</text>
+  <text x="666" y="233" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">estrellas, porcentaje…</text>
+  <rect x="650" y="280" width="270" height="120" rx="10" fill="none" stroke="#9aa3b5" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="785" y="312" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#6b7385" text-anchor="middle">Libertad total</text>
+  <text x="785" y="338" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="middle">Esta sección puede romper</text>
+  <text x="785" y="356" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="middle">con el estilo del resto:</text>
+  <text x="785" y="374" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="middle">ver la imagen de inspiración</text>
+</svg>

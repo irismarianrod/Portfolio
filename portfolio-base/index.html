@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nombre Apellido · Desarrollador/a web</title>
+  <meta name="description" content="Portfolio de Nombre Apellido, estudiante de DAW: proyectos, formación y contacto.">
+  <!-- Aquí va el <link> de Google Fonts con las fuentes elegidas -->
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+  <!-- =====================================================
+       CABECERA · parte fija (ver mockup)
+       ===================================================== -->
+  <header class="cabecera">
+    <div class="contenedor cabecera-interior">
+      <a class="logo" href="#inicio">nombre<span class="logo-punto">.dev</span></a>
+      <nav class="menu" aria-label="Principal">
+        <ul class="menu-lista">
+          <li><a href="#sobre-mi">Sobre mí</a></li>
+          <li><a href="#proyectos">Proyectos</a></li>
+          <li><a href="#habilidades">Habilidades</a></li>
+          <li><a href="#formacion">Formación</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- =====================================================
+         PRESENTACIÓN · parte fija (ver mockup)
+         ===================================================== -->
+    <section class="presentacion" id="inicio">
+      <div class="contenedor">
+        <img class="avatar" src="img/avatar.webp" alt="Ilustración de Nombre Apellido" width="160" height="160">
+        <p class="estado"><span class="estado-punto"></span>Disponible para prácticas · primavera 2027</p>
+        <h1 class="presentacion-titulo">Hola, soy Nombre Apellido</h1>
+        <p class="presentacion-rol">Desarrollador/a web en formación · 2º DAW</p>
+        <p class="presentacion-frase">Una o dos frases que digan qué haces y cómo trabajas.</p>
+        <p class="presentacion-botones">
+          <a class="boton boton-primario" href="#proyectos">Ver proyectos</a>
+          <a class="boton boton-secundario" href="docs/cv.pdf">Descargar CV</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- =====================================================
+         SOBRE MÍ · ZONA CREATIVA (ver wireframe-sobre-mi.svg)
+         La estructura interior se decide al diseñarla.
+         ===================================================== -->
+    <section class="seccion" id="sobre-mi">
+      <div class="contenedor">
+        <p class="seccion-etiqueta">01 · Sobre mí</p>
+        <h2 class="seccion-titulo">Título de la sección</h2>
+
+      </div>
+    </section>
+
+    <!-- =====================================================
+         PROYECTOS · parte fija (ver mockup)
+         Se repite el <article class="proyecto"> una vez por
+         proyecto: tres como mínimo.
+         ===================================================== -->
+    <section class="seccion seccion-alterna" id="proyectos">
+      <div class="contenedor">
+        <p class="seccion-etiqueta">02 · Proyectos</p>
+        <h2 class="seccion-titulo">Proyectos destacados</h2>
+        <p class="seccion-intro">Una frase que presente los proyectos.</p>
+
+        <div class="proyectos">
+
+          <article class="proyecto">
+            <img class="proyecto-imagen" src="img/proyecto-1.webp" alt="Describe lo que se ve en la captura" width="1200" height="600">
+            <div class="proyecto-cuerpo">
+              <p class="proyecto-curso">Curso · Módulo</p>
+              <h3 class="proyecto-titulo">Nombre del proyecto</h3>
+              <ul class="insignias">
+                <li>Tecnología</li>
+                <li>Tecnología</li>
+              </ul>
+              <p>Qué problema resuelve y cómo lo resuelve, en dos o tres frases.</p>
+              <div class="codigo">
+                <p class="codigo-fichero">nombre-del-fichero.ext</p>
+<pre><code>Entre 8 y 15 líneas del código más interesante del proyecto.
+Los caracteres &lt; y &amp; se escriben como &amp;lt; y &amp;amp;</code></pre>
+              </div>
+              <p class="proyecto-aprendido"><strong>Qué aprendí:</strong> una frase.</p>
+              <p class="proyecto-enlaces">
+                <a href="https://github.com/usuario/repositorio">Código en GitHub</a>
+                <a href="docs/memoria-proyecto-1.pdf">Memoria del proyecto</a>
+              </p>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- =====================================================
+         HABILIDADES · ZONA CREATIVA, LIBERTAD TOTAL
+         (ver wireframe-habilidades.svg e inspiracion-habilidades.png)
+         ===================================================== -->
+    <section class="seccion" id="habilidades">
+      <div class="contenedor">
+        <p class="seccion-etiqueta">03 · Habilidades</p>
+        <h2 class="seccion-titulo">Título de la sección</h2>
+
+      </div>
+    </section>
+
+    <!-- =====================================================
+         FORMACIÓN · parte fija (ver mockup)
+         Un <li class="hito"> por etapa, de la más reciente a la
+         más antigua. La primera lleva además la clase hito-actual.
+         ===================================================== -->
+    <section class="seccion seccion-alterna" id="formacion">
+      <div class="contenedor">
+        <p class="seccion-etiqueta">04 · Formación</p>
+        <h2 class="seccion-titulo">Formación y experiencia</h2>
+        <ol class="linea-tiempo">
+          <li class="hito hito-actual">
+            <span class="hito-punto"></span>
+            <p class="hito-fecha">Fechas</p>
+            <h3 class="hito-titulo">Estudio, curso o experiencia</h3>
+            <p class="hito-texto">Una frase que lo describa.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- =====================================================
+         CONTACTO · ZONA CREATIVA (ver wireframe-contacto.svg)
+         ===================================================== -->
+    <section class="seccion" id="contacto">
+      <div class="contenedor">
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- =====================================================
+       PIE · parte fija (ver mockup)
+       ===================================================== -->
+  <footer class="pie">
+    <div class="contenedor">
+      <p>© 2026 Nombre Apellido · Hecho a mano con HTML y CSS</p>
+    </div>
+  </footer>
+
+</body>
+</html>

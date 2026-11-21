@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 430" width="960" height="430">
+  <rect width="960" height="430" fill="#ffffff"/>
+  <text x="24" y="34" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="bold" fill="#002b5c">Zona creativa 01 · Sobre mí</text>
+  <text x="936" y="34" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="end">Wireframe orientativo · el diseño final es libre</text>
+  <line x1="24" y1="48" x2="936" y2="48" stroke="#d0d5df"/>
+  <text x="60" y="90" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#6b7385" text-anchor="start">01 · SOBRE MÍ</text>
+  <rect x="60" y="100" width="420" height="34" rx="6" fill="none" stroke="#9aa3b5" stroke-width="1.5"/>
+  <text x="270.0" y="122.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#6b7385" text-anchor="middle">Título de la sección (h2)</text>
+  <rect x="60" y="160" width="560" height="7" rx="3" fill="#e3e7ee"/>
+  <rect x="60" y="176" width="560" height="7" rx="3" fill="#e3e7ee"/>
+  <rect x="60" y="192" width="560" height="7" rx="3" fill="#e3e7ee"/>
+  <rect x="60" y="208" width="336.0" height="7" rx="3" fill="#e3e7ee"/>
+  <rect x="60" y="240" width="560" height="7" rx="3" fill="#e3e7ee"/>
+  <rect x="60" y="256" width="560" height="7" rx="3" fill="#e3e7ee"/>
+  <rect x="60" y="272" width="336.0" height="7" rx="3" fill="#e3e7ee"/>
+  <rect x="60" y="310" width="560" height="90" rx="10" fill="none" stroke="#9aa3b5" stroke-width="1.5"/>
+  <text x="80" y="338" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">Datos clave: ubicación · idiomas · qué buscas</text>
+  <rect x="80" y="352" width="300" height="7" rx="3" fill="#e3e7ee"/>
+  <rect x="80" y="366" width="300" height="7" rx="3" fill="#e3e7ee"/>
+  <rect x="80" y="380" width="180.0" height="7" rx="3" fill="#e3e7ee"/>
+  <text x="640" y="170" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">← ancho de línea limitado (60-70 ch)</text>
+  <text x="640" y="355" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#6b7385" text-anchor="start">← ficha destacada: borde, fondo o sombra</text>
+</svg>
