@@ -3,3 +3,44 @@
    1. Tokens de diseño en :root
    2. Reset y estilos base
    3. Una sección por bloque, en el orden de la página */
+
+:root {
+   /*COLORES*/
+   --color-primario: #5f8fd7;
+   --color-acento: white;
+
+   /*TIPOGRAFÍA*/
+   --fuente-principal: Arial, Helvetica, sans-serif;
+}
+
+* {
+   margin: 0;
+}
+
+.cabecera {
+   background-color: var(--color-primario);
+   height: 50px;
+   width: 100%;
+}
+
+.cabecera-interior {
+   display: flex;
+   justify-content:space-around;
+   align-items: center;
+   height: 100%;
+   width: 80%;
+   margin: 0 auto;
+   
+}
+
+.menu-lista {
+   display: flex;
+   list-style-type: none;
+   gap: 20px;
+}
+
+.cabecera a {
+   text-decoration: none;
+   color: var(--color-acento);
+   font-family: var(--fuente-principal);
+}
